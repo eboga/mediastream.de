@@ -1,5 +1,6 @@
 .jekyll
 .jekyyl-metadata
-
 _site
-.idea/
+.idea
+.DS_Store
+
